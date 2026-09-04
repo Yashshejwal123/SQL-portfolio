@@ -6,17 +6,16 @@ Welcome! This repository contains a collection of hands-on SQL projects demonstr
 
 ## 📌 Featured Projects
 
-### 1. 📚 [Library Management System](./Library-Management )
+### 1. 📚 [Library Management System](./Library-Management)
 * **Tech Stack**: MySQL Workbench, Relational Schema Design
-* **Key Concepts**: `FOREIGN KEY` constraints, `DATEDIFF()` for fine calculation, `CASE WHEN` logic, `LEFT JOIN` for inventory detection.
+* **Key Concepts**: FOREIGN KEY constraints, DATEDIFF() for fine calculation, CASE WHEN logic, LEFT JOIN for inventory detection.
 * **Core Deliverable**: Calculated automated late fees and identified active vs. zero-demand catalog items.
 
-### 2. 🛒 [E-Commerce Sales & Customer Analytics](./Project-1-ECommerce-Analytics)
+### 2. 🛒 [E-Commerce Sales & Customer Analytics](./Ecommerce-Analytics)
 * **Tech Stack**: MySQL Workbench
-* **Key Concepts**: Multi-table `JOIN`s, `GROUP BY`, `SUM()`, `COUNT(DISTINCT)`, churn detection with `IS NULL`.
+* **Key Concepts**: Multi-table JOINs, GROUP BY, SUM(), COUNT(DISTINCT), churn detection with IS NULL.
 * **Core Deliverable**: Evaluated total platform revenue, top customer spenders, and inactive user cohorts.
-
----
+*
 
 ## 🛠️ Technical SQL Skills Demonstrated
 - **DDL & DML**: `CREATE TABLE`, `ALTER`, `FOREIGN KEY`, `AUTO_INCREMENT`, `INSERT INTO`
