@@ -1,4 +1,4 @@
-USE users;
+USE library_db;
 
 -- 1. Populate Authors
 INSERT INTO authors (author_name) VALUES
