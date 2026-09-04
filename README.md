@@ -16,6 +16,12 @@ Welcome! This repository contains a collection of hands-on SQL projects demonstr
 * **Core Deliverable**: Evaluated total platform revenue, top customer spenders, and inactive user cohorts.
 *
 
+### 3. 🚨 [Financial Transaction Fraud Analytics](./Fraud-Analytics)
+* **Tech Stack**: MySQL Workbench, Advanced Window Functions
+* **Key Concepts**: CTEs, Window Aggregations (`AVG() OVER`), Self-Joins, Time-Series Analysis (`TIMESTAMPDIFF`), Index Optimization.
+* **Core Deliverable**: Engineered anomaly detection algorithms to identify impossible geographic travel and sudden transaction amount spikes.
+*
+
 ## 🛠️ Technical SQL Skills Demonstrated
 - **DDL & DML**: `CREATE TABLE`, `ALTER`, `FOREIGN KEY`, `AUTO_INCREMENT`, `INSERT INTO`
 - **Data Aggregation**: `GROUP BY`, `HAVING`, `COUNT()`, `SUM()`
