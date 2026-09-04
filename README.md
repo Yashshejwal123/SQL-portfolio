@@ -6,7 +6,7 @@ Welcome! This repository contains a collection of hands-on SQL projects demonstr
 
 ## 📌 Featured Projects
 
-### 1. 📚 [Library Management System](./ Library-Management )
+### 1. 📚 [Library Management System](./Library-Management )
 * **Tech Stack**: MySQL Workbench, Relational Schema Design
 * **Key Concepts**: `FOREIGN KEY` constraints, `DATEDIFF()` for fine calculation, `CASE WHEN` logic, `LEFT JOIN` for inventory detection.
 * **Core Deliverable**: Calculated automated late fees and identified active vs. zero-demand catalog items.
