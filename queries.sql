@@ -1,4 +1,4 @@
-USE users;
+USE library_db;
 
 -- Task 1: Calculate Overdue Books & Fine Amounts ($0.50/day late)
 SELECT 
