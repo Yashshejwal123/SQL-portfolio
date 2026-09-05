@@ -21,6 +21,11 @@ Welcome! This repository contains a collection of hands-on SQL projects demonstr
 * **Key Concepts**: CTEs, Window Aggregations (`AVG() OVER`), Self-Joins, Time-Series Analysis (`TIMESTAMPDIFF`), Index Optimization.
 * **Core Deliverable**: Engineered anomaly detection algorithms to identify impossible geographic travel and sudden transaction amount spikes.
 *
+### 4. 📈 [SaaS Subscription Engine & Churn Analytics](./Subscription-Analytics)
+* **Tech Stack**: MySQL Workbench, Advanced Stateful Querying
+* **Key Concepts**: Recursive CTEs, State Machine Reconstruction, Window Functions (`LAG`, `ROW_NUMBER`), Dynamic Date Generators.
+* **Core Deliverable**: Designed a revenue attribution pipeline tracking MRR movement (Expansion, Contraction, Churn) and building time-series retention matrices.
+*
 
 ## 🛠️ Technical SQL Skills Demonstrated
 - **DDL & DML**: `CREATE TABLE`, `ALTER`, `FOREIGN KEY`, `AUTO_INCREMENT`, `INSERT INTO`
